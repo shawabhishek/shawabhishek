@@ -1,4 +1,4 @@
-### Hola, I am Abhishek Shaw 👋
+# Hola, I am Abhishek Shaw 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawabhishek&label=Views&color=blue&style=plastic" alt="iamshaw" /> </p>
 
@@ -34,8 +34,14 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-shaw.live-2648ff?style=flat-square&logo=google-chrome)](https://shaw-portfolio.herokuapp.com/)
 
 **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+ 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 <a href="https://github.com/shawabhishek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawabhishek&theme=light&hide_langs_below=1" />
