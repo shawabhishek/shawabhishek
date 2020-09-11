@@ -33,4 +33,38 @@
 [![GitHub Shaw](https://img.shields.io/github/followers/Shaw?label=follow&style=social)](https://github.com/shawabhishek)
 [![website](https://img.shields.io/badge/PortfolioWebsite-shaw.live-2648ff?style=flat-square&logo=google-chrome)](https://shaw-portfolio.herokuapp.com/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=shawabhishek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/shawabhishek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawabhishek&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/shawabhishek">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawabhishek&show_icons=true&theme=light&line_height=27"/>
+</a>
+<a href="https://github.com/shawabhishek/meeting-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shawabhishek&repo=meeting-app&theme=light" />
+</a>
+<a href="https://github.com/shawabhishek/task-manager-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shawabhishek&repo=task-manager-api&theme=light" />
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
